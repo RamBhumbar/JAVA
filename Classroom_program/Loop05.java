@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class Loop05 {
 
@@ -12,4 +12,5 @@ public class Loop05 {
 	    while(times<=100);
 		}
 	}
+
 
