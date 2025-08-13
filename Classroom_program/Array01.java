@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class Array01 {
 
@@ -7,3 +7,4 @@ public class Array01 {
     byte[]x= {10,20,30,40,50};System.out.println(x[0]);
 	}
 }
+
