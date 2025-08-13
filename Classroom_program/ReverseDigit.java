@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 import java.util.Scanner;
 public class ReverseDigit {
 
@@ -16,3 +16,4 @@ public class ReverseDigit {
 		        scanner.close();
 		    }
 	}
+
