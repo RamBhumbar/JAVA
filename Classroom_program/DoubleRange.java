@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class DoubleRange {
 	public static void main(String[] args) {
@@ -7,3 +7,4 @@ public class DoubleRange {
 	}
 
 }
+
