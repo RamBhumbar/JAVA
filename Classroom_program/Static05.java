@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Static05 {
 	static int x=20;
@@ -14,3 +15,4 @@ public class Static05 {
 
 	}
 }
+
