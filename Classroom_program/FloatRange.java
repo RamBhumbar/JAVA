@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class FloatRange {
 
@@ -9,3 +10,4 @@ public class FloatRange {
 	}
 
 }
+
