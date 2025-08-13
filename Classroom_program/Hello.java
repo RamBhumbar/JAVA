@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Hello {
 
@@ -8,3 +9,4 @@ System.out.println("Hello World!");
 	}
 
 }
+
