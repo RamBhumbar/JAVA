@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 import java.util.Scanner;
 public class FactoLoop {
 
@@ -21,3 +22,4 @@ public class FactoLoop {
 		        scanner.close();
 		    }
 	}
+
