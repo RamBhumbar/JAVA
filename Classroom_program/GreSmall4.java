@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class GreSmall4 {
 	public static void main(String[] args) {
@@ -12,3 +13,4 @@ public class GreSmall4 {
 	System.out.println("Continue");
   }
 }
+
