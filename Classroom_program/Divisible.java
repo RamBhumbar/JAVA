@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 import java.util.Scanner;
 public class Divisible {
 
@@ -22,3 +23,4 @@ public class Divisible {
 	}
 
 }
+
