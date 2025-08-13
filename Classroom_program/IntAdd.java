@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class IntAdd {
 	public static void main(String[] args) {
@@ -9,3 +10,4 @@ public class IntAdd {
 	}
 
 }
+
