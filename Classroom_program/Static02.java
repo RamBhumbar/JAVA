@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class Static02 {
 	static int x=20;
@@ -9,3 +9,4 @@ public class Static02 {
 		System.out.println(t.p);
 	}
 }
+
