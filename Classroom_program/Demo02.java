@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Demo02 {
 
@@ -14,3 +15,4 @@ public class Demo02 {
 	}
 
 }
+
