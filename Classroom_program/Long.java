@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Long {
 	public static void main(String[] args) {
@@ -7,3 +8,4 @@ public class Long {
 
 	}
 }
+
