@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class ASCII01 {
 
@@ -9,3 +9,4 @@ public class ASCII01 {
 	}
 
 }
+
