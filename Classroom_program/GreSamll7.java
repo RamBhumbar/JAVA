@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class GreSamll7 {
 
@@ -13,3 +13,4 @@ public class GreSamll7 {
 		System.out.println("Continue");
 	}
 	}
+
