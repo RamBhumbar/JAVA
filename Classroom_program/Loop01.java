@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Loop01 {
 
@@ -12,3 +13,4 @@ public class Loop01 {
 	}
 
 }
+
