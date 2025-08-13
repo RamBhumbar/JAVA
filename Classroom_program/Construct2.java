@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class Construct2 {
 	//no argument constructor
@@ -14,3 +14,4 @@ public class Construct2 {
 		Construct2 a=new Construct2(56);
 	}
 }
+
