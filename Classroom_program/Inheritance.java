@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Inheritance {
 
@@ -15,3 +16,4 @@ public class Inheritance {
 		    c13.count();
 			}
 	}
+
