@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class YZ {
 	int x=20;
@@ -12,3 +13,4 @@ public class YZ {
 
 	}
 }
+
