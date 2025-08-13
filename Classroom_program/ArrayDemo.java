@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class ArrayDemo {
 	public void add(int x,int y) {
@@ -10,3 +10,4 @@ public class ArrayDemo {
 		d.add(5, 6);
 	}
 }
+
