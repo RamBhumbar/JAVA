@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Equal {
 	public static void main(String[] args) {
@@ -12,3 +13,4 @@ public class Equal {
 		System.out.println("Continue");
 	}
 }
+
