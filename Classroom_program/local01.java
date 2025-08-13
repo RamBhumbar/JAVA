@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class local01 {
 	static int x=20;
@@ -7,3 +8,4 @@ public class local01 {
 		System.out.println(x);
 	}
 }
+
