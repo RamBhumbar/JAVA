@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 import java.util.Scanner;
 public class EvenScan {
 	public static void main(String[] args) {
@@ -13,3 +14,4 @@ public class EvenScan {
      }
 	}
 }
+
