@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Object {
 	int x=20;
@@ -10,3 +11,4 @@ public class Object {
     System.out.println(s.x);
 	}
 }
+
