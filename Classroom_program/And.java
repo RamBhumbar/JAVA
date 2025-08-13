@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class And {
 
@@ -17,3 +18,4 @@ public class And {
 	}
 
 }
+
