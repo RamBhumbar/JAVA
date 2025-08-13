@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class GreSmall2 {
 
@@ -12,3 +12,4 @@ public class GreSmall2 {
 	}
 
 }
+
