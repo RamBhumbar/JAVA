@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Demo05 {
     
@@ -11,3 +12,4 @@ public class Demo05 {
 	}
 	}
 }
+
