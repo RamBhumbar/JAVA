@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class GreSmall1 {
 	public static void main(String[] args) {
@@ -10,3 +11,4 @@ public class GreSmall1 {
 			System.out.println("a is greater");
 	}
 }
+
