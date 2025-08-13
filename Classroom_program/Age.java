@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 import java.util.Scanner;
 public class Age {
 	public static void main(String[] args) {
@@ -20,4 +21,5 @@ public class Age {
     }
  }
 }
+
 
