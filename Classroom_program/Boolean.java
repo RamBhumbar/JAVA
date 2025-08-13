@@ -1,4 +1,4 @@
-package JavaPrograms;
+package Classroom_program;
 
 public class Boolean {
 
@@ -10,3 +10,4 @@ public class Boolean {
 	}
 
 }
+
