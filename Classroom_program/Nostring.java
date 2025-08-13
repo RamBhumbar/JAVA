@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Nostring {
 
@@ -10,3 +11,4 @@ public class Nostring {
 	}
 
 }
+
