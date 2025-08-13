@@ -1,4 +1,5 @@
-package JavaPrograms;
+package Classroom_program;
+
 
 public class Construct1 {
 	public Construct1() {
@@ -12,3 +13,4 @@ public class Construct1 {
 		Construct1 x=new Construct1();
 	}
 }
+
