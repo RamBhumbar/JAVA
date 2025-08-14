@@ -1,6 +1,6 @@
 package Classroom_program;
 
-public class ASCII01 {
+public class Q4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,4 +9,5 @@ public class ASCII01 {
 	}
 
 }
+
 
