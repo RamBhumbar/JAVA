@@ -1,6 +1,6 @@
 package Classroom_program;
 
-public class ABsum extends AB{
+public class ABsum extends Q2{
 	public static void main (String[]args) {
 		AB s=new AB();
 		int sum=s.a+s.b;
@@ -8,5 +8,6 @@ public class ABsum extends AB{
 	}
 
 }
+
 
 
