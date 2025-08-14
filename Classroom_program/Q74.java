@@ -5,6 +5,7 @@ public class Q74 {
 		 System.out.println("My name is Ram Vishnu Bhumbar");
 			System.out.println("My Father name is Vishnu Ramkisan Bhumbar");
 			System.out.println("My Mother name is Savitra Vishnu Bhumbar");
+			System.out.println("My Brother name is Sham Vishnu Bhumbar")
 			System.out.println("****************************************");
 			System.out.println("I am study in BJS Collage Wagholi");
 			System.out.println("My Favorite hobby is Watching a movie");
